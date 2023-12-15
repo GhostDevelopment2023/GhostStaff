@@ -1,0 +1,5 @@
+name: GhostStaff
+version: '${project.version}'
+main: me.ghostdevelopment.ghoststaff.GhostStaff
+load: STARTUP
+authors: [GhostDevelopment]
